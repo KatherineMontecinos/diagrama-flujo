@@ -2,4 +2,4 @@
 
 ### Preparacion Sandwich 
 
-![Foto Diagrama](digrama-flujo.jpg)
+![Foto Diagrama](diagrama-flujo.jpg)
